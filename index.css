@@ -1,0 +1,25 @@
+.audiobook-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.audiobook {
+  margin: 10px;
+  text-align: center;
+}
+
+.audiobook img {
+  width: 150px;
+  height: 200px;
+}
+
+.audiobook-detail img {
+  width: 300px;
+  height: 400px;
+}
+
+.filter {
+  margin-bottom: 20px;
+}
+
+
